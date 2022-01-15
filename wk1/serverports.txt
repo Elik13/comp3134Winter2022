@@ -1,0 +1,4 @@
+• What is the definition of server port? - It is a port where the server is made accessible for its clients. For instance, localhost:8080 means that the server will be accessible on port 8080 of local server.
+• What is server port range? - 0 to 65535
+• How many bits does number above represent? - 16-bit unsigned integer
+• State 10 common server ports - 20, 21, 22, 23, 25, 53, 80, 110, 119, 123, 143, 161, 194, 443, 8080
